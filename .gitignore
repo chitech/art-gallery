@@ -1,0 +1,11 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore node modules
+node_modules/
+
+# Ignore backend environment variables
+backend/.env
+
+# Ignore frontend build directory
+frontend/build/
